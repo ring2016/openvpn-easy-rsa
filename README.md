@@ -13,7 +13,7 @@
 * VPC-subnet：10.0.0.6
 * OpenVPN：10.8.0.0
 
-![image-20190123192137738](/Users/ring.chen/Library/Application Support/typora-user-images/image-20190123192137738.png)
+![image-20190123192137738](https://ws2.sinaimg.cn/large/006tNc79ly1fzgzh8j3jnj31180hcdro.jpg)
 
 ​										本地ifconfig
 
