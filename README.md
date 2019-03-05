@@ -140,8 +140,8 @@ cp -r ta.key /etc/openvpn/
 
 ```shell
 ./easyrsa build-client-full www001
-#注意：生成客户端用户的时候会提示设置密码
-#可以直按回车密码为空、也可以设置输入密码（如设置密码，客户端连接时需输入密码）
+#注意：生成客户端用户的时候会提示设置密码，这里随便输入一个密码即可
+#接着ca认证环节，需要输入ca密码`ca.com`
 ```
 
 ![img](https://upload-images.jianshu.io/upload_images/9045881-2acc5e4a50a84bc6.png?imageMogr2/auto-orient/)
